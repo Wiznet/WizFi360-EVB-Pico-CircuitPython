@@ -48,6 +48,7 @@ WizFi360-EVB-Pico-CircuitPython
 ┃   ┗ adafruit_wizfiatcontrol
 ┗ static
     ┣ documents
+    ┣ firmwares
     ┗ images
 ```
 
