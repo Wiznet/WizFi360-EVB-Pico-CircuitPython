@@ -55,7 +55,7 @@ Let's check if CircuitPython is properly installed in your WizFi360-EVB-Pico wit
 
 To use Wi-Fi and additional functions of WizFi360-EVB-Pico, copy and paste the libraries included in the '[**WizFi360-EVB-Pico-CircuitPython/libraries**][link-libraries]' directory into the '**CIRCUITPY/lib**' directory.
 
-<p align="center"><img src="https://github.com/Wiznet/WizFi360-EVB-Pico-CircuitPython/blob/main/static/images/getting_started/copy_and_paste_library.png"></p>
+![][link-copy_and_paste_library]
 
 
 
