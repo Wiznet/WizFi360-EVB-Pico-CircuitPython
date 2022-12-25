@@ -23,7 +23,7 @@ These sections will guide you through a series of steps from configuring develop
 <a name="development_environment_configuration"></a>
 ## Development Environment Configuration
 
-To test the examples, the development environment must be configured to use Raspberry Pi Pico or WizFi360-EVB-Pico.
+To test the examples, the development environment must be configured to use WizFi360-EVB-Pico.
 
 The examples were tested by configuring the development environment for **Windows**. Please refer to the below and configure accordingly.
 
@@ -32,7 +32,7 @@ The examples were tested by configuring the development environment for **Window
 <a name="installing_circuitpython"></a>
 ### Installing CircuitPython
 
-Install CircuitPython on Raspberry Pi Pico by referring to the link below.
+Install CircuitPython on WizFi360-EVB-Pico by referring to the link below.
 
 - [**Installing CircuitPython**][link-installing_circuitPython]
 

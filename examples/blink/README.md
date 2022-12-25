@@ -4,7 +4,7 @@
 
 ## Step 1: Prepare hardware
 
-1. Connect WizFi360-EVB-Pico to desktop or laptop using 5 pin micro USB cable.laptop using 5 pin micro USB cable.
+1. Connect WizFi360-EVB-Pico to desktop or laptop using 5 pin micro USB cable.
 
 
 
